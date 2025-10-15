@@ -43,13 +43,6 @@ curl -X POST http://localhost:3000/api/paste \
   -H "Content-Type: application/json" \
   -d '{"content":"Hello from MiniPaste!"}'
 ```
-📁 File Structure
-Code
-minipaste/
-├── server.js          # Main server logic
-├── utils.js           # Utility functions
-├── storage.json       # Paste storage
-└── README.md          # Project documentation
 
 🛡 License
 This project is licensed under the MIT License. See LICENSE for details.
