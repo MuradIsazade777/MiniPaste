@@ -17,5 +17,4 @@ async function readStorage() {
 async function writeStorage(data) {
   await fs.writeFile(path, JSON.stringify(data, null, 2));
 }
-
 module.exports = { generateId, readStorage, writeStorage };
