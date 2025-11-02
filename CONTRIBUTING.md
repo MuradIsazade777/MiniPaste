@@ -1,4 +1,4 @@
-# Contributing to MiniPaste
+# Contributing to MiniPaste 
 
 Thank you for considering contributing to **MiniPaste**! We welcome all kinds of contributions — from bug fixes and feature requests to documentation improvements and creative ideas.
   
