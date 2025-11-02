@@ -4,7 +4,7 @@ Thank you for considering contributing to **MiniPaste**! We welcome all kinds of
  
 ## 🧠 Philosophy
 
-MiniPaste is designed to be:
+MiniPaste is designed to be: 
 - Minimal and modular
 - Easy to understand and extend
 - Backend-focused with clean API design
