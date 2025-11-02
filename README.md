@@ -5,7 +5,7 @@
 ## 🔧 Features 
 
 - Create new pastes via POST requests
-- Retrieve pastes by ID
+- Retrieve pastes by ID 
 - List all stored pastes
 - JSON-based storage (no DB setup) 
 - Modular codebase with only 4 files 
