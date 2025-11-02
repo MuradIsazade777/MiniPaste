@@ -43,7 +43,7 @@ curl -X POST http://localhost:3000/api/paste \
   -H "Content-Type: application/json" \
   -d '{"content":"Hello from MiniPaste!"}'
 ```
-
+ 
 🛡 License
 This project is licensed under the MIT License. See LICENSE for details.
 
