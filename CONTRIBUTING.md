@@ -10,7 +10,7 @@ MiniPaste is designed to be:
 - Backend-focused with clean API design
 
 ## 🛠 How to Contribute
-
+ 
 ### 1. Fork the repository
 
 Click the "Fork" button at the top right of the GitHub page.
