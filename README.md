@@ -8,7 +8,7 @@
 - Retrieve pastes by ID
 - List all stored pastes
 - JSON-based storage (no DB setup)
-- Modular codebase with only 4 files
+- Modular codebase with only 4 files 
 
 ## 📦 Tech Stack
 
