@@ -2,7 +2,7 @@
 
 **MiniPaste** is a minimalist backend-powered pastebin clone built with Express.js. It offers a simple REST API for creating, retrieving, and listing text snippets ("pastes"). Designed for clarity, modularity, and rapid deployment, MiniPaste stores data in a local JSON file — no database required. 
 
-## 🔧 Features
+## 🔧 Features 
 
 - Create new pastes via POST requests
 - Retrieve pastes by ID
