@@ -1,4 +1,4 @@
-const fs = require('fs').promises;
+const fs = require('fs').promises; 
 const path = './storage.json';
 
 function generateId(length = 6) {
