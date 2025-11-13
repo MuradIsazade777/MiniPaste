@@ -5,7 +5,7 @@ function generateId(length = 6) {
   return Math.random().toString(36).substring(2, 2 + length);
 }
 
-async function readStorage() {
+async function readStorage() { 
   try {
     const data = await fs.readFile(path, 'utf-8');
     return JSON.parse(data || '{}');
